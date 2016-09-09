@@ -1,0 +1,56 @@
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+9/25      JP      12:30     14:00    5+15+10           Q1            60             Finished information analysis on Q1
+
+9/26      JP      11:30     12:20    15                Q1            35             Completed contracts and purpose statements of a
+                                                                                    wishlist of functions required
+
+9/25      JP      13:00     14:00    10                Q1            50             Finished function definition of the wishtree of
+                                                                                    functions
+
+9/25      JP      16:00     17:00    15                Q1            45             Finished test cases and program review
+
+===================================================== Committed @19:45 9/25/2014 =====================================================
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+9/26      JP      19:50     22:30    10+15+10          Q2            125            Finished information analysis of Q2
+
+9/26      JP      23:25     02:30    15+5+20+5         Q2            140            Completed Data Definition and made a wishlist of 
+                                                                                    required functions and wrote their contracts and purposes
+
+9/27      JP      09:00     11:45    20+10             Q2            135            Completed some Function definitions
+
+===================================================== Committed @11:50 9/27/2014 =====================================================  
+                
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+9/27      JP      17:20     19:00    10+20             Q2            70             Completed remaining function definitions and updated
+                                                                                    some data definitions and contracts and purpose statements
+
+===================================================== Committed @19:05 9/27/2014 =====================================================  
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+9/28      JP      13:15     15:40    10+15             Q2            120            Started with test cases and completed about 10%
+
+9/28      JP      17:45     21:30    15+10+30          Q2            170            Went through Piazza and updated code for the new requirement
+                                                                                    changes
+
+9/28      JP      23:30     04:00(+1)20+15+30          Q2            205            Updated test cases for the changed code and wrote more tests
+
+9/29      JP      04:45     05:15    10                Q2            20             Checked Piazza again and reviewed my solution
+
+===================================================== Committed @06:25 9/29/2014 =====================================================  
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+9/29      JP      15:30     17:20    10+15+5           Q2, Q1        80             Reviewed both the programs and made minor updates
+
+===================================================== Committed @17:30 9/29/2014 =====================================================  
+
+Total Time On Task Q1 (minutes) 230
+Total Time On Task Q1 (minutes) 1025
+
+TOTQ1 (hours and tenths) 3.8
+TOTQ2 (hours and tenths) 17.1

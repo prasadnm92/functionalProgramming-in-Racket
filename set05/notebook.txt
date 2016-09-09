@@ -1,0 +1,55 @@
+Date		Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
+
+10/16		SK,JP		12:00		16:00		 30 min			    1			  210 min		Started with Q1, discussed about Data definitons and started writing program.
+
+10/16		SK,JP		20:30		22:30					    1			  120 min		Worked on Data Definitions, Done with Data Definitions.Discussed about function
+																	defintions.
+---------------------------------------------------------------------Committing to git: 10/16 22:55----------------------------------------------------------------------------------------------------------------------
+
+Date		Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
+
+10/17           SK,JP           00:00		01:45					    1			  105 min		Finished Function Definition of world-to-scene and tried some examples.
+
+10/17           JP              03:30		04:15					    1			  45 min		Generated more examples.
+
+---------------------------------------------------------------------Committing to git: 10/17 04:15----------------------------------------------------------------------------------------------------------------------
+Date		Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
+
+10/17		SK,JP		13:00		18:00		50 min			    1			  250 min		Started with world after key event, written defintion for n and t key event
+																	Discussed with JP and created worked on mouse event. Tested the program.
+
+
+10/17		SK,JP           19:00           23:00           20+30 min		    1			  190 min		Finished key-events and mouse-events.
+		
+---------------------------------------------------------------------Committing to git: 10/17 23:08----------------------------------------------------------------------------------------------------------------------
+
+Date		Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
+
+10/18           SK,JP		01:30		03:00		20 min			    1			   70 min		Worked on more examples and reviwed the program. Worked on th contracts and
+																	purpose statements.
+
+---------------------------------------------------------------------Committing to git: 10/18 03:07----------------------------------------------------------------------------------------------------------------------
+Date		Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
+
+10/18		SK,JP		15:00		19:00		30 min			    1			   210			Updated the program with test cases for MouseEvent and KeyEvent and also wrote Examples Purppose Statement.
+
+10/18		SK,JP		19:30		20:30		20 min			    1			   40			Included more tests and covered world-to-scene. Rectified code that required some clarifications.
+
+10/18		SK,JP		21:00		21:50		10 min			    1			   40			More tests, verified contracts and purposes. Reviewed the program.
+
+---------------------------------------------------------------------Committing to git: 10/18 21:55----------------------------------------------------------------------------------------------------------------------
+Date		Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
+
+10/19		SK,JP		18:00		18:50					    1			    50			Another session of program review. Updated examples and purpose statements, added a helper function.
+
+---------------------------------------------------------------------Committing to git: 10/19 18:55----------------------------------------------------------------------------------------------------------------------
+Date		Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
+
+10/20		Sk,JP		15:00		16:30					    1			    90			Final Program Review, updated examples and test cases. Resolved overlap conditions.
+
+---------------------------------------------------------------------Committing to git: 10/20 16:40----------------------------------------------------------------------------------------------------------------------
+
+Total Time on Task Q1(minutes): 1420	
+
+
+TOTQ1(hours and tenths): 23.7

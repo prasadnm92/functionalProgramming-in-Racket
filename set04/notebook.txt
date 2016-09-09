@@ -1,0 +1,46 @@
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+10/11     JP      11:00     15:00    20+30+20          Q1            170            added the new function and required tests and applied
+                                                                                    HOFC on a few functions 
+
+10/11     JP      15:00     19:00    20+15+5           Q1            200            applied HOFC on remaining set of functions
+
+10/11     JP      20:00     03:00    20+30+45          Q1            205            Reviewed the program, add contracts for lambda functions
+                                                                                    and updated tests
+
+===================================================== Committed @03:10 10/12/2014 =====================================================  
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+10/12     JP      15:00     19:00    30+20+45          Q2            145            added all the extra functionalities to the previous
+                                                                                    balls implementation
+
+10/12     JP      19:30     23:10    20                Q2            200            Applied HOFC on required function,changed examples and
+                                                                                    updated tests. Reviewed contracts & purpose statements
+
+===================================================== Committed @23:15 10/12/2014 =====================================================  
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+10/12     JP      23:30     23:35                      Q2            5              made a small change to rectify the bouncing effect
+
+10/12     JP      23:40     01:10    20                Q1            70             finished program review, updated some test cases and
+                                                                                    checked strategies of all functions
+
+===================================================== Committed @01:20 10/13/2014 =====================================================  
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+10/13     JP      12:30     15:30    20+30             Q1, Q2        130            Reviewed both the programs and optimized them
+
+10/13     JP      16:20     16:40                      Q1, Q2        20             Final review of the programs
+
+10/13     JP      16:45     16:55                      notebook      10             updated notebook with TOT's for both questions
+
+===================================================== Committed @16:57 10/13/2014 =====================================================  
+
+Total Time On Task Q1 (minutes) 720
+Total Time On Task Q1 (minutes) 425
+
+TOTQ1 (hours and tenths) 12
+TOTQ2 (hours and tenths) 7.1

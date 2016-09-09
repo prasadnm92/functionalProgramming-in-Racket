@@ -1,0 +1,51 @@
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+9/30      JP      11:30     05:30(+1)10+15+15          Q2            320            Completed information analysis, deliverables,
+                                                                                    functions' wishtree and the code
+
+===================================================== Committed @05:30 10/01/2014 =====================================================  
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+10/3      JP      00:20     01:45    10                Q2            75             Added left out contracts and updated previous 1's
+
+===================================================== Committed @01:45 10/03/2014 =====================================================  
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+10/4      JP      16:00     17:15    10+15             Q1            50             Completed Information analysis on the problem and defined
+                                                                                    the required data
+
+10/4      JP      17:45     22:30    10+15+30          Q1            230            Completed a wishtree of functions and defined the functions
+
+===================================================== Committed @11:40 10/04/2014 =====================================================  
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+10/5      JP      11:30     12:30    15+5              Q1            40             Tested the functions and made a few changes
+
+10/5      JP      14:45     16:30    20                Q1            85             Wrote some tests and examples
+
+10/5      JP      18:30     21:00    15+20+15+10       Q1            90             Updated some contrscts, data definitions and tests
+
+10/6      JP      00:45     02:40    15+30             Q1            70             Completed Q1 with 100% expression coverage
+
+10/6      JP      02:40     03:00                      Q2            20             Wrote some tests, defined a few constants for tests     
+
+===================================================== Committed @03:10 10/05/2014 =====================================================  
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+10/6      JP      13:50     15:00    10+20             Q2            40             Worked more on tests
+
+10/6      JP      16:30     17:05    10                Q2            25             Completed tests and finished program review
+
+10/6      JP      17:05     17:10                      Q1            5              Finished program review
+
+===================================================== Committed @17:15 10/05/2014 =====================================================  
+
+Total Time On Task Q1 (minutes) 570
+Total Time On Task Q1 (minutes) 480
+
+TOTQ1 (hours and tenths) 9.5
+TOTQ2 (hours and tenths) 8

@@ -1,0 +1,75 @@
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+8/30      JP      12:10     12:55    15+10                           20             Setup my CCIS account
+9/5       JP      19:00     20:00    10+5                            45             Setup Zimbra and Piazza accounts
+                                                                                    and read the posts and comments
+                                                                                    of others
+9/6       JP      00:30     01:30    10+10                           40             Setup Github account and other things
+                                                                                    required for it
+9/6       JP      11:00     12:30    10+20                           60             Installed GitHub for windows and DrRacket
+                                                                                    and explored its options
+9/6       JP      16:00     18:30    10+15+5+20                      100            Read Prologue of the textbook and watched
+                                                                                    5 of John Clement's videos, simultaneously
+                                                                                    trying them out on DrRacket
+9/6       JP      21:10     22:00    10+5                            35             Watched welcome videos and read Lesson 0.1
+                                                                                    through 0.3 and made notes for the same
+=============================================Committed @13:40 9/7/2014=========================================================
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+9/7       JP      13:40     14:40    10                Ex1-Ex5       50             started with lesson 0.4 and completed till
+                                                                                    Ex5
+=============================================Committed @15:50 9/7/2014=========================================================
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+9/7       JP      16:10     17:20    10                Ex6-Ex10      60             resumed with lesson 4.0 and completed till
+                                                                                    Ex10
+=============================================Committed @17:20 9/7/2014=========================================================
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+9/7       JP      18:00     18:30                                    30             finished the remaining part of prologue of
+                                                                                    the text book and a part of chapter 1
+=============================================Committed @18:30 9/7/2014=========================================================
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+9/7       JP      19:30     20:15    15                              30             resumed with chapter 1 and completed till
+                                                                                    arithmatic of strings
+=============================================Committed @20:20 9/7/2014=========================================================
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+9/8       JP      16:00     17:30    10+20+10+10       Ex 11- Ex 15  40             resumed with lesson 4.0 and completed till
+                                                                                    Exercise 15
+=============================================Committed @17:35 9/8/2014=========================================================
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+9/9       JP      13:00     14:00    10                                             started with Module01 and completed lesson 1.1
+
+=============================================Committed @14:00 9/9/2014=========================================================
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+9/10      JP      13:15     14:15    10+10                           40             resumed with Module01 and completed till 1.4
+
+=============================================Committed @14:25 9/10/2014========================================================
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+9/13      JP      19:00     21:40    30+10             Ex16 - Ex21   120            resumed with Module01 and completed the
+                                                                                    slides and exercises in Lesson0.4 upto 21
+
+=============================================Committed @21:40 9/13/2014========================================================
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+9/14      JP      13:30     14:30    10+5              Ex22 - Ex24   45             resumed with exercices of Lesson0.4 and
+                                                                                    completed till Ex24
+9/14      JP      17:00     20:00    20+30+20+10       Ex24 - Ex28   100            continued with exercises till Ex28
+
+9/14      JP      22:30     23:30                      Ex29 - Ex32   60             continued with exercises and completed
+
+=============================================Committed @23:35 9/14/2014========================================================

@@ -1,0 +1,47 @@
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+11/04     JP,SR   12:00     13:00                      Q1            60             Information Analysis and data definitions. Initializations.
+
+===================================================== Committed @13:00 11/04/2014 =====================================================  
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+11/05     JP,SR   17:00     18:30    20+20             Q1            50             Reviewed data definitions and made a few changes.
+
+===================================================== Committed @18:40 11/05/2014 =====================================================  
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+11/07     JP,SR   14:00     19:30    60		       Q2            270            Completed wishlist functions and started dfs main 
+
+11/07     JP,SR   21:00     21:45                      Q2            45             Completed dfs main and solution
+
+11/07     JP,SR   22:00     23:50                      Q2            110            Updated data definitions and strategies
+
+===================================================== Committed @23:55 11/07/2014 =====================================================  
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+11/09     JP,SR   15:00     18:00                      Q1            180            Contracts, Examples, Test cases and more helper functions
+
+11/09     JP,SR   21:00     23:30                      Q3            150            Modified pitcher.rkt to match requirements of river
+
+11/10     JP,SR   02:00     02:50                      Q3            50             More wishist functions, updates to contracts and ex
+
+===================================================== Committed @03:00 11/10/2014 =====================================================  
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+11/10     JP,SR   14:00     15:30    20+30             Q3            40             Final Review, test updates, other small changes
+
+11/10     JP,SR   15:30     17:00    20                Q1, Q2        70             Final review, minor updates  
+
+===================================================== Committed @17:30 11/10/2014 =====================================================  
+
+Total Time On Task Q1 (minutes): 325
+Total Time On Task Q2 (minutes): 460
+Total Time On Task Q3 (minutes): 240
+
+TOTQ1 (hours and tenths): 5.4
+TOTQ2 (hours and tenths): 7.7
+TOTQ3 (hours and tenths): 4

@@ -1,0 +1,48 @@
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+11/22     JP,SR   10:30     12:15                      Q1            105            Made changes to ps09 solution to reflect changes to
+                                                                                    ps10 question
+
+===================================================== Committed @12:20 11/22/2014 =====================================================  
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+11/24     JP,SR   12:30     14:30                      Q1            120            Made updates to contracts and took care of some anomalies
+
+11/24     JP,SR   15:00     16:30                      Q2            90             Information analysis and wishlist of functions
+
+===================================================== Committed @17:10 11/24/2014 =====================================================  
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+11/27     JP,SR   10:00     14:00    20+30             Q2            190            Discussed the strategy for obtaining the solution and
+                                                                                    implemented the world class completely
+
+11/27     JP,SR   15:00     19:00    20+20+30          Q2            170            wish list of function in square toy class and implemented
+                                                                                    a few
+
+===================================================== Committed @19:05 11/27/2014 =====================================================  
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+11/29     JP,SR   14:45     17:00    10+25             Q2            100            Stuck at a case and referred piazza for insights
+
+11/30     JP,SR   18:00     22:00    30+10+25          Q2            175            Resolved the issue. Beautified code.
+
+11/30     JP,SR   22:00     23:00    20                Q1            40             Updated test cases and some minor changes
+
+===================================================== Committed @04:30 12/01/2014 =====================================================  
+
+Date      Who     Start     Stop     Interruptions     Questions     TimeOnTask     Comments
+
+12/01     JP,SR   14:00     17:00    20+30+20          Q2            110            Wrote test cases and achieved 100% coverage
+
+12/01     JP,SR   17:30     18:00    0                 Q2            30             Last minute changes    
+
+===================================================== Committed @17:00 12/01/2014 =====================================================  
+
+Total Time On Task Q1 (minutes): 265
+Total Time On Task Q2 (minutes): 865
+
+TOTQ1 (hours and tenths): 4.4
+TOTQ2 (hours and tenths): 14.4

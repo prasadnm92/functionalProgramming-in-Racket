@@ -1,0 +1,67 @@
+Date		Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
+
+10/22		SK,JP		14:00		17:30		30			    1			  180 min		 Analysed Q1, Discussed about Data definitions and studied about lists. Started with
+																	 Data definitions, working on it.
+
+---------------------------------------------------------------------Committing to git: 10/22 17:35----------------------------------------------------------------------------------------------------------------------			    
+Date		Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
+
+10/22		SK,JP		20:00		22:30		30+20			    1			  100 min		 Worked on Data Definition and tried various versions, went through text book, slides
+																	and piazza for a better understanding.
+
+10/23		SK,JP		00:00		04:15		15+20			    1			  220 min		Completed function definitions based on decided data definitions. Yet to write appropriate
+																	contracts and check if data definition is correct.
+
+---------------------------------------------------------------------Committing to git: 10/23 04:17----------------------------------------------------------------------------------------------------------------------			    
+Date		Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
+
+10/23		SK,JP		14:30		16:30					    2			   120 min		Analysed Q2 and started writing the data defintions, Data Definitions almost completed.
+
+10/23		SK,JP		17:45		18:45					    1			   60 min		Worked on Q1, completed Examples, Changed Contract and checked test cases.
+
+10/23		SK,JP		19:00		21:45		15+30			    2			   120 min		Completed Data Definition, completed 40% of function definitions.
+
+---------------------------------------------------------------------Committing to git: 10/23 21:46----------------------------------------------------------------------------------------------------------------------
+Date		Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
+
+10/24		SK,JP		13:30		14:05					    1			  35 min		Altered data definitions and their templates. Updated code according to the new
+																	definitions. Added two more tests.
+---------------------------------------------------------------------Committing to git: 10/24 14:08----------------------------------------------------------------------------------------------------------------------
+Date		Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
+
+10/24		SK,JP		18:30		20:20		5			    1			  105 min		Updated Data Definitions, templates, contracts, examples and code to match updated
+																	clarifications.
+
+---------------------------------------------------------------------Committing to git: 10/24 20:24----------------------------------------------------------------------------------------------------------------------		
+Date		Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
+
+10/25		SK,JP		20:00		23:30		20+30			    2			   160 min		Worked on wishlist of functions and obtained partial implementation.
+
+---------------------------------------------------------------------Committing to git: 10/26 00:10----------------------------------------------------------------------------------------------------------------------		
+Date		Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
+
+10/26		SK,JP		17:00		19:30		30+20			    2			   100 min		Reviwed and updated wishlist of functions. Tried various versions for the same.
+
+10/26		SK,JP		21:00		23:00		20+20+30		    2			   50 min		Completed function definitions of the wishlist of functions. Tried few tests and
+																	updated code for correcting the errors.
+
+10/26		SK,JP		23:30		01:00					    2			   90 min		Updated the Q2 with Contracts, Purpose Statment and Strategy.
+
+10/27		SK,JP		01:30		03:15		45+20			    2			   40 min		Reviewed code, ran more tests, updated contracts, partially beautified the code.
+
+---------------------------------------------------------------------Committing to git: 10/27 03:25----------------------------------------------------------------------------------------------------------------------		
+Date		Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
+
+10/27		SK,JP		11:00		11:20					    1			   20 min		Updated data definitions and templates.
+
+10/27		SK,JP		15:00		16:30					    2			   90 min		Updated Test cases, examples etc.
+
+10/27		SK,JP		16:45		17:20		5			   1,2			   30 min		Final Program Review.
+
+---------------------------------------------------------------------Committing to git: 10/27 17:24----------------------------------------------------------------------------------------------------------------------		
+
+Total Time on Task Q1(minutes): 735
+Total Time on Task Q2(minutes): 785
+
+TOTQ1(hours and tenths): 12.3
+TOTQ2(hours and tenths): 13.1
